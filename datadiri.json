@@ -1,0 +1,464 @@
+{
+    "data": {
+        "students": [{
+                "id": 1,
+                "stuId": 3101,
+                "name": "Wisnu Andrian",
+                "track": "Frontend Engineering",
+                "circle": 78,
+                "img": "https://avatars.githubusercontent.com/u/67319772?v=4",
+
+                "description": {
+                    "intro": "I am babboeCodes😁 and It is my desire to attain and maintain a high degree of professionalism and contribute significantly to the organizational growth and development through diverse skills while providing innovative solutions capable of satisfying and maintaining the corporate interest of my employer and customers..",
+                    "introdetails": "Software Engineer | Frontend | Student @AltschoolAfrica | HTML | CSS | JavaScript | React | Analytical Skills, problem solver with keen eyes for details"
+                },
+                "socialmedia": {
+                    "linkedin": "https://www.linkedin.com/in/abiola-ayodele-5a10651b7/",
+                    "github": "https://github.com/babboe1",
+                    "twitter": "https://twitter.com/ausstinab",
+                    "portfolio": "https://babboecodes.netlify.app/",
+                    "slackHandle": "babboeCodes"
+                },
+
+                "experience": {
+                    "first": "Freelancer",
+                    "second": "FrontEnd Engineer Intern @I4GXZURI",
+                    "third": "FrontEnd Engineer Intern @SideHustle"
+                },
+
+                "project": {
+                    "first": {
+                        "projectname": "babboeCodes Portfolio",
+                        "projectdescription": "A multi page Portfolio website for babboeCodes, but with HTML, CSDS and JavaScript(Vanilla), It was built with a lot of animations and features like toogle-dark-mode, and definitely serves its purpose for what is intended for.",
+                        "projectlink": "https://github.com/wisnu45/Product-Informasi-Handphone-CodeIgniter"
+                    },
+                    "second": {
+                        "projectname": "ShadyRymes Interior Design",
+                        "projectdescription": "This is Shady-Rymes, an Interior design Landing page that displays a collection of carpentry works used for interiors designs. Users can browse through to pick a design of their choice. This webpage also packs quite a number of features thatmakes the user experience awesome.",
+                        "projectlink": "https://interior-design-landing-page.netlify.app/"
+                    },
+
+                    "third": {
+                        "projectname": "Loop-studio Landion page",
+                        "projectdescription": "This is a solution to the Loopstudios landing page challenge on Frontend Mentor.This webpage is a landing page of a studio that gives users immersive experience in Interactive VR. Built with wonderful animation that immerses the user and serves is purpose as a center of attraction.",
+                        "projectlink": "https://loopstudio-landings-page.netlify.app/"
+                    }
+                }
+            },
+            {
+                "id": 2,
+                "stuId": 3102,
+                "name": "Anggi Siti Triana Ningsih",
+                "track": "Back End Engineering",
+                "circle": 17,
+                "img": "https://avatars.githubusercontent.com/u/111473466?v=4",
+                "description": {
+                    "intro": " Hi, I'm Anggi who just graduated from vocational high school majoring in computer and network engineering. I am a person who always wants to find out and want to try new things. I want to be a programmer who can help others and myself.",
+                    "introdetails": "I as a junior programmer want to be someone who knows more about IT in the world. And can understand more about making a web that can be used by many people"
+                },
+                "socialmedia": {
+                    "github": "https://github.com/anggisiti"
+                },
+                "experience": {
+                    "first": "Graduated from junior high school",
+                    "second": "Internship in Semarang",
+                    "third": "Graduated from vocational high school in 2022"
+                },
+                "project": {
+                    "first": {
+                        "projectname": "nofice",
+                        "projectdescription": "Make your own html blog.",
+                        "projectlink": "https://github.com/anggisiti/nofice"
+                    },
+                    "second": {
+                        "projectname": "html_aing",
+                        "projectdescription": "Creating html with css and bootstrap.",
+                        "projectlink": "https://github.com/anggisiti/html_aing"
+                    },
+                    "third": {
+                        "projectname": "tugas_database",
+                        "projectdescription": "Create a student registration database .",
+                        "projectlink": "https://github.com/anggisiti/tugas_database"
+                    }
+                }
+            },
+            {
+                "id": 3,
+                "stuId": 3103,
+                "name": "Khalila Fathiya",
+                "track": "Fullstack Developer",
+                "circle": 18,
+                "img": "https://avatars.githubusercontent.com/u/111473639?v=4",
+
+                "description": {
+                    "intro": "Hello! I am Khalila😁 and It is my desire to attain and maintain a high degree of professionalism and contribute significantly to the organizational growth and development through diverse skills while providing innovative solutions capable of satisfying and maintaining the corporate interest of my employer and customers..",
+                    "introdetails": "Software Engineer | Frontend | HTML | CSS | JavaScript | React | Analytical Skills, problem solver with keen eyes for details"
+                },
+                "socialmedia": {
+                    "github": "https://github.com/khalila2504",
+                    "gmail": "khalilafathiya04@gmail.com",
+                    "instagram": "https://www.instagram.com/kaleidoskay/"
+                },
+
+                "experience": {
+                    "first": "Islamic Elementary School 1 Kebumen",
+                    "second": "Islamic Junior High School 1 Kebumen",
+                    "third": "Islamic Senior High School of Darul Quran"
+                },
+
+                "project": {
+                    "first": {
+                        "projectname": "Making jsQRCode",
+                        "projectdescription": "A simple QR Code",
+                        "projectlink": "https://github.com/khalila2504/tugas-aya.github.io"
+                    }
+                }
+            },
+            {
+                "id": 4,
+                "stuId": 3104,
+                "name": "Fitra Qorina Hasna",
+                "track": "UI/UX",
+                "circle": 23,
+                "img": "https://avatars.githubusercontent.com/u/67319772?v=4",
+                "description": {
+                    "intro": "hai, aku fitra, aku seorang wanita yang dilahirkan dari satu ibu, rumahku di Wonosobo, saya lulusan dari MA Yajri Payaman Magelang",
+                    "introdetails": " HTML | CSS | Boostrap"
+                },
+                "socialmedia": {
+                    "github": "https://github.com/fitraqorinahasna"
+                },
+                "experience": {
+                    "first": "lulus MI tahun 2011",
+                    "second": "Lulus SMP tahun 2014",
+                    "third": "Lulus MA tahun 2017"
+                },
+                "project": {
+                    "first": {
+                        "projectname": "jsQR-master",
+                        "projectdescription": "-",
+                        "projectlink": "https://github.com/fitraqorinahasna/tugasfitra.github.io"
+                    }
+                }
+            },
+            {
+                "id": 5,
+                "stuId": 3105,
+                "name": "Miyanti",
+                "track": "Backend Engineering",
+                "circle": 23,
+                "img": "https://avatars.githubusercontent.com/u/111584795?v=4",
+
+                "description": {
+                    "intro": "Saya mia, saya tertarik didunia IT",
+                    "introdetails": "Software Engineer | Backend | Student @Pesantren Progammer | HTML | CSS | JavaScript | NodeJs | Analytical Skills"
+                },
+                "socialmedia": {
+                    "instagram": "https://www.instagram.com/mymiaaz?r=nametag",
+                    "github": "https://github.com/miyamia518",
+                    "twitter": "https://twitter.com/mmylmia?t=aKNAoAF3cpvxAw9YeDY6Ug&s=08"
+                },
+
+                "experience": {
+                    "first": "SD N 1 Kuripan",
+                    "second": "SMP N 1 Watumalang",
+                    "third": "SMA Takhassus Al-Qur'an",
+                    "four": "UNIVERSITAS SAINS AL-Qur'an"
+                },
+
+                "project": {
+                    "first": {
+                        "projectname": "JsQr",
+                        "projectdescription": "Project untuk membuat program scan.",
+                        "projectlink": "https://github.com/miyamia518/mia1.github.io"
+                    }
+                }
+            },
+            {
+                "id": 6,
+                "stuId": 3106,
+                "name": "Nisfi Nuur Lailatin",
+                "track": "Data Analyst",
+                "circle": 22,
+                "img": "https://avatars.githubusercontent.com/u/111473345?v=4",
+
+                "description": {
+                    "intro": "I am babboeCodes😁 and It is my desire to attain and maintain a high degree of professionalism and contribute significantly to the organizational growth and development through diverse skills while providing innovative solutions capable of satisfying and maintaining the corporate interest of my employer and customers..",
+                    "introdetails": "Software Engineer | Frontend | Student @AltschoolAfrica | HTML | CSS | JavaScript | React | Analytical Skills, problem solver with keen eyes for details"
+                },
+                "socialmedia": {
+                    "linkedin": "https://www.linkedin.com/in/nisfi-nuur-lailatin-5b95b6212/",
+                    "github": "https://github.com/nisfiii",
+                    "Instagram": "https://instagram.com/nisfinl",
+                    "Gmail": "nisfinuurlailatin254@gmail.com"
+                },
+
+                "experience": {
+                    "first": "Freelancer",
+                    "second": "FrontEnd Engineer Intern @I4GXZURI",
+                    "third": "FrontEnd Engineer Intern @SideHustle"
+                },
+
+                "project": {
+                    "first": {
+                        "projectname": "jsQR",
+                        "projectdescription": "jsQR is designed to be a completely standalone library for scanning QR codes.",
+                        "projectlink": "https://github.com/nisfiii/jsQR-Nisfi.io"
+                    }
+                }
+            },
+            {
+                "id": 7,
+                "stuId": 3107,
+                "name": "Tatik Ravena",
+                "track": "UI/UX",
+                "circle": 23,
+                "img": "https://avatars.githubusercontent.com/u/111473664?s=400&u=1d40aa6f709f98f75d5601059b3f6551464f0c95&v=4",
+
+                "description": {
+                    "intro": "Halo, Namaku Tatik Ravena. Aku berasal dari Banjarnegara. Sekarang Aku sedang belajar IT di Ponpes Qoryatussalam",
+                    "introdetails": "HTML | CSS | JavaScript"
+                },
+                "socialmedia": {
+                    "github": "https://github.com/tatikravena910"
+                },
+
+                "experience": {
+                    "first": "Saya lulus SMA Tahun 2017",
+                    "second": "Saya Lulus  Kuliah Tahun 2021 ",
+                    "third": "Sekarang saya sedang belajar IT di Ponpes Qoryatussalam"
+                },
+
+                "project": {
+                    "first": {
+                        "projectname": "jsQR-Master",
+                        "projectdescription": "",
+                        "projectlink": "https://github.com/tatikravena910/tugasvena.github.io"
+                    }
+                }
+            },
+            {
+                "id": 8,
+                "stuId": 3108,
+                "name": "Tatik Ravena",
+                "track": "UI/UX",
+                "circle": 23,
+                "img": "https://avatars.githubusercontent.com/u/111473664?s=400&u=1d40aa6f709f98f75d5601059b3f6551464f0c95&v=4",
+
+                "description": {
+                    "intro": "Halo, Namaku Tatik Ravena. Aku berasal dari Banjarnegara. Sekarang Aku sedang belajar IT di Ponpes Qoryatussalam",
+                    "introdetails": "HTML | CSS | JavaScript"
+                },
+                "socialmedia": {
+                    "github": "https://github.com/tatikravena910"
+                },
+
+                "experience": {
+                    "first": "Saya lulus SMA Tahun 2017",
+                    "second": "Saya Lulus  Kuliah Tahun 2021 ",
+                    "third": "Sekarang saya sedang belajar IT di Ponpes Qoryatussalam"
+                },
+
+                "project": {
+                    "first": {
+                        "projectname": "jsQR-Master",
+                        "projectdescription": "",
+                        "projectlink": "https://github.com/tatikravena910/tugasvena.github.io"
+                    }
+                }
+            },
+            {
+                "id": 9,
+                "stuId": 3109,
+                "name": "Rosy Rizabila Septianisya",
+                "track": "Imaginer",
+                "circle": 20,
+                "img": "https://avatars.githubusercontent.com/u/111473538?s=400&u=18112a3dd844aafbf0cc7210501a4e7a8e44b7ab&v=4",
+
+                "description": {
+                    "intro": "I am Rosy Rizabila Septianisya and It is my desire to attain and maintain a high degree of professionalism and contribute significantly to the organizational growth and development through diverse skills while providing innovative solutions capable of satisfying and maintaining the corporate interest of my employer and customers..",
+                    "introdetails": "Software Engineer | Frontend | Student @UMNU Kebumen| alumni @Pondok Pesantren Al-Huda Kebumen, Pondok Pesantren Qoryatussalam | HTML | CSS | JavaScript | Analytical Skills, problem solver with keen eyes for details"
+                },
+                "socialmedia": {
+                    "github": "https://github.com/RosyRizabila",
+                    "twitter": "https://twitter.com/Rizabila2",
+                    "instagram": "https://www.instagram.com/rosyrizabila/"
+                },
+
+                "experience": {
+                    "first": "student",
+                    "second": "teacher",
+                    "third": "UI UE designer"
+                },
+
+                "project": {
+                    "first": {
+                        "projectname": "rosy",
+                        "projectdescription": "programming basics",
+                        "projectlink": "https://github.com/RosyRizabila/rosy"
+                    },
+                    "second": {
+                        "projectname": "website-sederhana",
+                        "projectdescription": "create a simple website display with javascript and css",
+                        "projectlink": "https://github.com/RosyRizabila/website-sederhana"
+                    }
+                }
+            },
+            {
+                "id": 10,
+                "stuId": 3110,
+                "name": "Anggi Siti Triana Ningsih",
+                "track": "Back End Engineering",
+                "circle": 17,
+                "img": "https://avatars.githubusercontent.com/u/111473466?v=4",
+                "description": {
+                    "intro": " Hi, I'm Anggi who just graduated from vocational high school majoring in computer and network engineering. I am a person who always wants to find out and want to try new things. I want to be a programmer who can help others and myself.",
+                    "introdetails": "I as a junior programmer want to be someone who knows more about IT in the world. And can understand more about making a web that can be used by many people"
+                },
+                "socialmedia": {
+                    "github": "https://github.com/anggisiti"
+                },
+                "experience": {
+                    "first": "Graduated from junior high school",
+                    "second": "Internship in Semarang",
+                    "third": "Graduated from vocational high school in 2022"
+                },
+                "project": {
+                    "first": {
+                        "projectname": "nofice",
+                        "projectdescription": "Make your own html blog.",
+                        "projectlink": "https://github.com/anggisiti/nofice"
+                    },
+                    "second": {
+                        "projectname": "html_aing",
+                        "projectdescription": "Creating html with css and bootstrap.",
+                        "projectlink": "https://github.com/anggisiti/html_aing"
+                    },
+                    "third": {
+                        "projectname": "tugas_database",
+                        "projectdescription": "Create a student registration database .",
+                        "projectlink": "https://github.com/anggisiti/tugas_database"
+                    }
+                }
+            },
+            {
+                "id": 11,
+                "stuId": 3111,
+                "name": "Catur Wulandari",
+                "track": "Web Developer",
+                "circle": 22,
+                "img": "https://avatars.githubusercontent.com/u/111473375?s=400&u=abd6fd3b92112615e947ff3aacc3500b52e03cfb&v=4",
+
+                "description": {
+                    "intro": "I am a junior web developer. By becoming a web developer I want to play a role in bringing benefit to others I love learning and making connections with others. ",
+                    "introdetails": "Junior Web Developer | Student @Qoryatussalam Programmer's Boarding School | Bachelor of Education from Sunan Kalijaga State Islamic University | HTML | CSS | JavaScript | React | Analytical Skills, problem solver with keen eyes for details"
+                },
+                "socialmedia": {
+                    "github": "https://github.com/Wulan425",
+                    "instagram": "https://www.instagram.com/wulandary_425",
+                    "website": "https://www.isomoco425.blogspot.com"
+                },
+
+                "experience": {
+                    "first": "Junior Web Developer",
+                    "second": "Teacher",
+                    "third": "Private Tutor"
+                },
+
+                "project": {
+                    "first": {
+                        "projectname": "jsQR",
+                        "projectdescription": "Creating a QR Code Program using Node JS which serves to scan the information stored in the scanned barcode",
+                        "projectlink": "https://github.com/Wulan425/jsQR-complete.io"
+                    },
+                    "second": {
+                        "projectname": "Node JS Basic Login",
+                        "projectdescription": "Creating a simple login system using Node JS, and combining with MySQL database",
+                        "projectlink": "https://github.com/Wulan425/nodejs-basic-login"
+                    },
+
+                    "third": {
+                        "projectname": "Simple Website",
+                        "projectdescription": "create a simple website using CSS, Boostrap, HTML, and Javascript",
+                        "projectlink": "https://github.com/Wulan425/simple-website"
+                    },
+
+                    "forth": {
+                        "projectname": "Weather App",
+                        "projectdescription": "Create a weather forecast using the JS module to display weather predictions ",
+                        "projectlink": "https://github.com/Wulan425/Weather-Map"
+                    }
+                }
+            },
+            {
+                "id": 12,
+                "stuId": 3112,
+                "name": "Imroatul Afifah",
+                "track": "Backend Engineering",
+                "circle": 20,
+                "img": "https://avatars.githubusercontent.com/u/111473238?v=4",
+
+                "description": {
+                    "intro": "Saya Afifah, saya tertarik dengan dunia progammer, sekarang saya fokus ke dunia BackEnd, so nice to see u guys",
+                    "introdetails": "Web Developer | Backend | Student @Pesantren Progammer | HTML | CSS | JavaScript | NodeJs | Analytical Skills, problem solver with keen eyes for details"
+                },
+                "socialmedia": {
+                    "github": "https://github.com/afifah427",
+                    "twitter": "https://twitter.com/Iafifah27",
+                    "instagram": "https://www.instagram.com/imroatulafifah_/"
+                },
+
+                "experience": {
+                    "first": "MI Nurul Huda ",
+                    "second": "MTs Nurul Huda",
+                    "third": "SMK Telekomunikasi Tunas Harapan",
+                    "four": "UIN Salatiga",
+                    "fifth": "PPTI Al Falah",
+                    "six": "Pondok Pesantren Progammer Qoriyatussalam"
+                },
+
+                "project": {
+                    "first": {
+                        "projectname": "jsQr",
+                        "projectdescription": "Projek untuk membuat sebuah progam untuk men scan QR Code.",
+                        "projectlink": "https://github.com/afifah427/afifah427.github.io"
+                    }
+                }
+            },
+            {
+                "id": 13,
+                "stuId": 3113,
+                "name": "Rokhmatun Nazila",
+                "track": "Data Engineer",
+                "circle": 19,
+                "img": "https://avatars.githubusercontent.com/u/67319772?v=4",
+
+                "description": {
+                    "intro": "Saya nazilcerdas(programmer ngapak😁) dan Ini adalah keinginan saya untuk menjadi Data Analyst. Dan saat ini saya masih dalam proses mendalami data analyst dengan cara mengikuti bootcamp di Pondok Programmer Qoryatussalam.",
+                    "introdetails": "Software Engineer | Data Analyst | SQL | Student of Qoryatussalam Boarding School | HTML | CSS | JavaScript | Analytical Skills, pemecah masalah dengan tingkat ketelitian yang tajam untuk detail"
+                },
+                "socialmedia": {
+                    "github": "https://github.com/nazilcerdas",
+                    "twitter": "https://twitter.com/zilNazil_2801",
+                    "instagram": "https://www.instagram.com/al_fatih.137/?hl=en",
+                    "facebook": "https://web.facebook.com/profile.php?id=100001305961547"
+                },
+
+                "experience": {
+                    "first": "Mahasiswa",
+                    "second": "Santri ponpes Al-Kahfi Somalangu & Qoryatussalam"
+
+                },
+
+                "project": {
+                    "first": {
+                        "projectname": "QR Code",
+                        "projectdescription": "Sebuah program web untuk membaca code QR.",
+                        "projectlink": "https://github.com/nazilcerdas/nazil.github.io"
+                    }
+
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "cloudlord-and-pals",
+  "version": "1.0.0",
+  "description": "belajar localstorage-API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wisnu",
+  "license": "ISC",
+  "dependencies": {
+    "container": "^0.0.2"
+  },
+  "devDependencies": {}
+}
